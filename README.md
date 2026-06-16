@@ -1,5 +1,13 @@
 # 🚚 Otimização de Last-Mile Delivery com Grafos
 
+## 📝 Integrantes
+
+* Débora Bruna Lourenço de Melo
+* Vinícius Cavalcante Lima
+* Jeanny Elizabete da Silva Bezerra
+
+---
+
 ## 📋 Sobre o Projeto
 
 Este projeto simula um sistema inteligente de otimização de rotas para entregas de última milha (*Last-Mile Delivery*), utilizando conceitos de **Teoria dos Grafos** e algoritmos de **Caminho Mínimo**.
